@@ -1,0 +1,2 @@
+# VerificareConexiune
+Verificare Conexiune
