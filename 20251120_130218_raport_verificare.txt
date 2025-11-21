@@ -1,0 +1,11 @@
+RAPORT VERIFICARE SERVER - 2025-11-20 13:02:18.743974
+Server IP: 87.188.122.43
+Catalog URL: http://87.188.122.43:8991/F
+================================================================================
+
+HTTP Test: SUCCES
+Status: HTTP 200
+
+SSH Connection: ESEC
+Eroare: plink.exe nu este disponibil. Instaleaza PuTTY.
+Return code: 1
