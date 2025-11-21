@@ -1,0 +1,15 @@
+Ceva se intampla uneori. Deci adresa http://87.188.122.43/ nu e valida nicodata ,imi apare asta tot timpul:
+
+This site can’t be reached
+87.188.122.43 refused to connect.
+Try:
+
+Checking the connection
+Checking the proxy and the firewall
+ERR_CONNECTION_REFUSED
+
+----
+
+dar Aleph  http://87.188.122.43:8991/F/  merge (doar ca azi se intrerupe des, si nu stiu de ce)
+
+dar intrebarea, cu Putty tot cade catalogul online? DA
