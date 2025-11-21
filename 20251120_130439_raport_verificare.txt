@@ -1,0 +1,19 @@
+RAPORT VERIFICARE SERVER - 2025-11-20 13:04:39.827018
+Server IP: 87.188.122.43
+Catalog URL: http://87.188.122.43:8991/F
+================================================================================
+
+HTTP Test: SUCCES
+Status: HTTP 200
+
+SSH Connection: ESEC
+Eroare: The host key is not cached for this server:
+  87.188.122.43 (port 22)
+You have no guarantee that the server is the computer you
+think it is.
+The server's rsa2 key fingerprint is:
+  ssh-rsa 1024 SHA256:o8uDQLrUVHutwz+9OeFoDvrsuxy2ctj+tDiAunJp6JY
+Connection abandoned.
+FATAL ERROR: Cannot confirm a host key in batch mode
+
+Return code: 1
